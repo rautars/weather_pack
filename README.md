@@ -1,3 +1,3 @@
 # Moved to GitLab
 
-https://gitlab.com/zombiebot/weather_pack
+https://gitlab.com/rautars/weather_pack
